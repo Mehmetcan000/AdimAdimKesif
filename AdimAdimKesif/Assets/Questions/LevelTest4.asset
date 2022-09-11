@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbdfa8782572e6c4e8f3c2a875923c6b, type: 3}
+  m_Name: LevelTest4
+  m_EditorClassIdentifier: 
+  questions:
+  - soru: "K\u0131rm\u0131z\u0131 renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131
+      nedir?"
+    cevaplar:
+    - Red
+    - Blue
+    - Brown
+    dogrucevap: A
+  - soru: "Mavi renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - Brown
+    - Blue
+    - Yellow
+    dogrucevap: B
+  - soru: "Sar\u0131 renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - Yellow
+    - Blue
+    - Orange
+    dogrucevap: A
+  - soru: "Kahverengi renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131
+      nedir?"
+    cevaplar:
+    - Blue
+    - Orange
+    - Brown
+    dogrucevap: C
+  - soru: "Pembe renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - Purple
+    - Pink
+    - Blue
+    dogrucevap: B
+  - soru: "Mor renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - Blue
+    - Cyan
+    - Purple
+    dogrucevap: C
+  - soru: "Beyaz renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - White
+    - Dark
+    - Blue
+    dogrucevap: A
+  - soru: "Siyah renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - Black
+    - White
+    - Purple
+    dogrucevap: A
+  - soru: "Turuncu renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131 nedir?"
+    cevaplar:
+    - Blue
+    - White
+    - Orange
+    dogrucevap: C
+  - soru: "Ye\u015Fil renginin \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131
+      nedir?"
+    cevaplar:
+    - Blue
+    - Green
+    - Pink
+    dogrucevap: B
+  levelIndex: 2

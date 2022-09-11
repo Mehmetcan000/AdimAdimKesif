@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbdfa8782572e6c4e8f3c2a875923c6b, type: 3}
+  m_Name: LevelTest3
+  m_EditorClassIdentifier: 
+  questions:
+  - soru: "Tavu\u011Fun \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Chicken
+    - Horse
+    - Goat
+    dogrucevap: A
+  - soru: "\u0130ne\u011Fin \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Horse
+    - Cow
+    - Rabbit
+    dogrucevap: B
+  - soru: "E\u015Fe\u011Fin \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Cow
+    - Donkey
+    - Horse
+    dogrucevap: B
+  - soru: "At\u0131n \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Horse
+    - Tiger
+    - Lion
+    dogrucevap: A
+  - soru: "Kangurunun \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Horse
+    - Cow
+    - Kangaroo
+    dogrucevap: C
+  - soru: "Aslan\u0131n \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Lion
+    - Tiger
+    - Goat
+    dogrucevap: A
+  - soru: "Tav\u015Fan\u0131n \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Rabbit
+    - Horse
+    - Lion
+    dogrucevap: A
+  - soru: "Ke\xE7inin \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Cow
+    - Goat
+    - Lion
+    dogrucevap: B
+  - soru: "Kaplan\u0131n \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Tiger
+    - Lion
+    - Horse
+    dogrucevap: A
+  - soru: "\xD6rde\u011Fin \u0130ngilizce Kar\u015F\u0131l\u0131\u011F\u0131 Nedir?"
+    cevaplar:
+    - Duck
+    - Donkey
+    - Lion
+    dogrucevap: A
+  levelIndex: 0

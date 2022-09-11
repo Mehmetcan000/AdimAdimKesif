@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbdfa8782572e6c4e8f3c2a875923c6b, type: 3}
+  m_Name: LevelTest1
+  m_EditorClassIdentifier: 
+  questions:
+  - soru: "\u0130ki say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - One
+    - Two
+    - Three
+    dogrucevap: B
+  - soru: "Be\u015F say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - Eight
+    - Nine
+    - Five
+    dogrucevap: C
+  - soru: "Dokuz say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - One
+    - Two
+    - Nine
+    dogrucevap: C
+  - soru: "S\u0131f\u0131r say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - Zero
+    - Eight
+    - Ten
+    dogrucevap: A
+  - soru: "\xDC\xE7 say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - Three
+    - One
+    - Zero
+    dogrucevap: A
+  - soru: "Yedi say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - One
+    - Seven
+    - Four
+    dogrucevap: B
+  - soru: "D\xF6rt say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - One
+    - Four
+    - Eleven
+    dogrucevap: B
+  - soru: "On say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - Ten
+    - Eleven
+    - Fifty
+    dogrucevap: A
+  - soru: "Bir say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - One
+    - Two
+    - Three
+    dogrucevap: A
+  - soru: "OnBir say\u0131s\u0131n\u0131n \u0130ngilizce kar\u015F\u0131l\u0131\u011F\u0131"
+    cevaplar:
+    - Eleven
+    - Ten
+    - Four
+    dogrucevap: A
+  levelIndex: 3
